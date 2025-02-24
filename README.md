@@ -14,31 +14,32 @@ Personal Information: Email address (if you sign in with an account).
 Diary Entries: Text, images, and videos that you voluntarily save in the app.
 Usage Data: App usage patterns to improve functionality (no personally identifiable information is collected for analytics).
 Device Information: Information about your device (such as device model and operating system) for performance optimization.
+
 3. How We Use Your Information
 We use the information collected to:
-
 Provide, maintain, and improve the app's features.
 Store and display your diary entries securely.
 Respond to customer service requests.
 Ensure data synchronization with cloud services (if you opt-in).
 4. Data Sharing and Disclosure
 We do not sell or share your personal information with third parties for marketing purposes. We may share data:
-
 With cloud services (e.g., Firebase) to store user entries securely.
 To comply with legal obligations or protect user safety.
+
 5. Data Retention and Deletion
 Your data is retained as long as you use the app.
 You can delete your entries anytime from within the app.
 Upon account deletion, all associated data will be permanently removed from our servers.
-6. Data Security
+
+7. Data Security
 We implement appropriate security measures to protect your data from unauthorized access, alteration, or disclosure. However, no electronic transmission is entirely secure.
 
-7. User Rights
+8. User Rights
 You have the right to:
-
 Access your stored data.
 Request data correction or deletion.
 Withdraw consent at any time by discontinuing use of the app.
+
 8. Changes to This Privacy Policy
 We may update this policy occasionally. Any changes will be posted within the app and on the app's store listing. Your continued use of the app signifies acceptance of the revised policy.
 
