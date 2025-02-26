@@ -1,4 +1,5 @@
 Privacy Policy
+
 Effective Date: February 21, 2025
 App Name: Daily Memoirs: Diary
 Developer: jesus_child
